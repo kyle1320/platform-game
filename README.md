@@ -20,4 +20,6 @@ Features include:
   * A high score table, so players can compete for the best scores
   * And more!
 
+![Screenshot from the game](http://i.imgur.com/FwC6z3S.png)
+
 credits to KenNL (kenney.nl) for the sprites used
