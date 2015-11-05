@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Nov 04 17:44:43 EST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0150-d4ac-7156-000006f47dd0 
+on database directory /Users/kyle1320/Documents/Programming/Java Programs/11 - Platform Game/JAR/database/ScoreDB with class loader sun.misc.Launcher$AppClassLoader@8efb846 
+Loaded from file:/Users/kyle1320/Documents/Programming/Java%20Programs/11%20-%20Platform%20Game/JAR/database/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-ea-b06
+user.dir=/Users/kyle1320/Documents/Programming/Java Programs/11 - Platform Game/JAR
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
